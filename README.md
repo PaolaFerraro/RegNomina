@@ -1,3 +1,4 @@
+![IMG_20211124_220110](https://user-images.githubusercontent.com/91568657/143372558-60d2660f-2106-4e08-bf83-9680e4e7d0b7.jpg)
 # RegNomina
  Proyecto sobre registro de nominas 
  
