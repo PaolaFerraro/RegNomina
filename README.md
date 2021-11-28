@@ -9,4 +9,4 @@
  Andres Felipe Quintero Velasquez 20191020023  
 
 
-Los principios identificados son: DRY, YAGNI y KISS.
+**Los principios identificados son:** DRY, YAGNI y KISS.
