@@ -1,4 +1,5 @@
-![IMG_20211124_220110](https://user-images.githubusercontent.com/91568657/143372558-60d2660f-2106-4e08-bf83-9680e4e7d0b7.jpg)
+
+
 # RegNomina
  Proyecto sobre registro de nominas 
  
@@ -10,3 +11,4 @@
 
 
 **Los principios identificados son:** DRY, YAGNI y KISS.
+![Analisis proyecto (1)](https://user-images.githubusercontent.com/75555273/143805319-d88eb1dd-0a20-4fe6-a141-12ac520d4666.jpg)
