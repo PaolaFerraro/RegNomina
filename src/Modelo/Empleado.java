@@ -44,6 +44,7 @@ public abstract class Empleado{
         return salario;
     }
 
+    
     public void setSalario(double salario) {
         this.salario = salario;
     }
@@ -69,5 +70,15 @@ public abstract class Empleado{
         return Salud()+Pension();
     }
     
+    public String getId(){
+        return this.per.getId();
+    }
+    
+    public String getNom(){
+        return this.per.getNom();
+    }
+    
+    public String getTel(){
+        return this.per.getTel();
     public abstract double sueldo();
 }
